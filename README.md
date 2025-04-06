@@ -57,7 +57,7 @@ You can generate a `requirements.txt` file using:
 
 ## 📸 Confusio Matrix
 - Before adding a hidden layer
-  ![Confusion Matrix before adding hidden layer]()
+  ![Confusion Matrix before adding hidden layer](https://github.com/jeevankumar54/Handwritten-Digit-Classification/blob/711693593cd94f1467d6492153fc143b4e6d85fb/cm_befor_hiddenlayer.png)
 
 - After adding a hidden layer
   ![Confusion Matrix after adding hidden layer](https://github.com/jeevankumar54/Handwritten-Digit-Classification/blob/cdfb56ae55be8261ecefee259356842b09d1b308/Confusion%20Matrix.png)
