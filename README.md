@@ -56,7 +56,11 @@ You can generate a `requirements.txt` file using:
 - Loss and accuracy plots included
 
 ## 📸 Confusio Matrix
+- Before adding a hidden layer
+  ![Confusion Matrix before adding hidden layer]()
 
+- After adding a hidden layer
+  ![Confusion Matrix after adding hidden layer](https://github.com/jeevankumar54/Handwritten-Digit-Classification/blob/cdfb56ae55be8261ecefee259356842b09d1b308/Confusion%20Matrix.png)
 
 ## 📌 Future Improvements
 
