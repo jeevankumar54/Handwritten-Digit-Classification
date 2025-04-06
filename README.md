@@ -28,3 +28,38 @@ This project demonstrates a basic image classification model trained to recogniz
    ```bash
    git clone https://github.com/yourusername/handwritten-digits-classification.git
    cd handwritten-digits-classification
+
+2. Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+3. Run the notebook:
+   ```bash
+   jupyter notebook Handwitten_Digits_Classification.ipynb
+
+## ✅ Requirements
+
+- Python 3.x
+- TensorFlow
+- NumPy
+- Matplotlib
+- Jupyter
+
+You can generate a `requirements.txt` file using:
+   ```bash
+   pip freeze > requirements.txt
+   ```
+
+## 📈 Results
+
+- Final test accuracy: ~97%
+- Loss and accuracy plots included
+
+## 📸 Confusio Matrix
+
+
+## 📌 Future Improvements
+
+- Implement CNN for improved accuracy
+- Try using dropout/regularization
+- Convert the notebook to a Python script and deploy as a simple web app using Streamlit
